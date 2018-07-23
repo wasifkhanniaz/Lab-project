@@ -1,10 +1,4 @@
 function out = imoverlay(in, mask, color)
-%IMOVERLAY Create a mask-based image overlay.
-
-%
-%   OUT is a uint8 RGB image.
-%
-
 
 %   Steven L. Eddins
 %   Copyright 2006-2012 The MathWorks, Inc.
